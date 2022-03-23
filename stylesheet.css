@@ -1,0 +1,73 @@
+*{
+    color: snow;
+}
+header{
+    position: relative;
+    left: 200px
+    color:gold;
+    background-color: brown;
+    background-image: image-set(well dp.jp);
+    text-align: center;
+    text-transform: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: indigo;
+}
+img{
+    animation-duration: auto;
+    animation-iteration-count: 30;
+    background-repeat: repeat;
+    mix-blend-mode: luminosity;
+    transition-property: none;
+    background-color: rgb(80, 27, 5);
+    position: relative;
+    max-width: 200%;
+    height: 600px;
+
+    
+}
+.helo{
+    position: absolute;
+    left: 10px;
+    top: 500px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 33px;
+    color:skyblue; 
+    mix-blend-mode: luminosity;
+
+      
+    
+}
+
+.welcome{
+    top: 100px;
+}
+.copy{
+    text-align: center;
+    font-size: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+html{
+    background-image: repeating-linear-gradient(45);
+    background-color: rgb(10, 10, 10);
+    list-style-image: url;
+    border-image-repeat: repeat;
+}
+.footer section{
+    display: none;
+
+    position: absolute;
+    left: 100px;
+    top: 200px;
+}
+ul{
+    position: absolute;
+    left: 0px;
+    top: 1030px;
+    font-size: 27px;
+    color: orangered;
+}
+legend{
+    background-color: black;
+    color: chartreuse;
+    mix-blend-mode: luminosity;
+}
